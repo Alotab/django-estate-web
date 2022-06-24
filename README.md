@@ -1,1 +1,0 @@
-# django-estate-web
